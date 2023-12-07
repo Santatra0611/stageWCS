@@ -80,7 +80,7 @@
 				          <div class="col-md-12">
 				            <input type="submit" value="LOG IN" class="btn btn-warning"><br>
 
-				           <a href="info_admin.php" onclick="hideButton(this)">Create account</a> 
+				           <a href="info_admin.php">Create account</a> 
 				       	</div>
 				        </div>
 					</div>
@@ -95,12 +95,7 @@
 		</div>
 	</div>
 	<script src="../js/script.js"></script>
-	 <script>
-	 		function hideButton(x)
-		{
-			x.style.display = "none";
-		}		
-	</script> 
+
 	<script>
 		let input = document.querySelector('.templatemo-input-icon-container input.form-control.pass');
 		let showBtn = document.querySelector('i.fa.fa-eye.mdp');
