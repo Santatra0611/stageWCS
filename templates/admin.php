@@ -95,7 +95,6 @@
 		</div>
 	</div>
 	<script src="../js/script.js"></script>
-
 	<script>
 		let input = document.querySelector('.templatemo-input-icon-container input.form-control.pass');
 		let showBtn = document.querySelector('i.fa.fa-eye.mdp');
