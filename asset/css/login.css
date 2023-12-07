@@ -1,0 +1,61 @@
+	h1{
+		text-align: center;
+	}
+
+	a{
+		text-decoration: none;
+		padding: 0 5px;
+    color: #2d8c7e;
+	}
+	li{
+		list-style: none;
+	}
+	th{
+		text-align: center;
+	}
+	tr {
+    text-align: center;
+    font-family: fangsong;
+}
+		.fa{
+			font-size: 25px;
+			color: #000;
+		}
+		.navbar-brand{
+			font-size: 30px;
+			font-family: Cooper Black;
+		}
+		input,button{
+			border-radius: 50px!important;
+		}
+		.icon {
+    		position: relative;
+    		top: -27px;
+    		left: 517px;
+    		font-size: 21px;
+		}
+		img {
+    		width: 125px;
+    		margin: -32px -10px;
+    		padding: 0;
+		}
+		.navbar-brand {
+    		width: 340px;
+		}
+		.navbar-inverse {
+    		background-color: transparent;
+    		box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, -0.81);
+    		border: none;
+		}
+		form {
+   			 margin-top: 0;
+		}
+		span{
+			color: #02060b;
+		}
+		.col-md-6 {
+    margin-top: 10%;
+    border-radius: 37px;
+    padding: 19px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

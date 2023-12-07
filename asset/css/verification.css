@@ -1,0 +1,21 @@
+input,button,.btn{
+  			border-radius: 50px!important;
+  		}
+  		.col-md-6 {
+    		margin-top: 13%;
+    		border-radius: 37px;
+    		padding: 19px;
+    		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		}
+		.alert-danger{
+			text-align: center;
+			animation: anim 0.2s;
+		}
+		@keyframes anim{
+    		from{
+        		transform: scaleX(0);
+    			}
+    		to{
+        		transform: scaleY(1);
+   				 }
+}
